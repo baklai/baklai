@@ -1,18 +1,17 @@
-### Hi there 👋
+### Оказываю помощь по программированию на Pascal, Delphi, C#, JavaScript, MathCad.
 
-Оказываю помощь по программированию на Pascal, Delphi, C#, JavaScript, MathCad.
+# Программирование на
 
-Программирование на
-● Pascal(Паскаль) (Turbo Pascal, Pascal ABC, PascalABC.NET, Free Pascal);
-● Lazarus;
-● Delphi;
-● С#;
-● JavaScript;
-● Node.js;
-● MathCad;
+- Pascal(Паскаль) (Turbo Pascal, Pascal ABC, PascalABC.NET, Free Pascal);
+- Lazarus;
+- Delphi;
+- С#;
+- JavaScript;
+- Node.js;
+- MathCad;
 
-Вам нужна помощь с программами?
-Тогда напишите сюда: https://vk.com/di.baklai
+Вам нужна помощь с программами? Тогда напишите сюда: 
+[![](https://img.shields.io/static/v1?label=VK&message=@Baklai&color=informational)](https://vk.com/di.baklai) 
 
 Просьба сразу высылать условие дабы не тратить время на пустые дискуссии.
 
