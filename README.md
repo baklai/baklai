@@ -1,5 +1,3 @@
-### Окажу помощь в написании программ на Pascal, Delphi, C#, JavaScript, MathCad.
-
 ### Программирую на:
 
 - Pascal(Паскаль) (Turbo Pascal, Pascal ABC, PascalABC.NET, Free Pascal);
@@ -10,11 +8,10 @@
 - Node.js;
 - MathCad;
 
-### Вам нужна помощь с программами? 
+### Вам нужна помощь? 
 Тогда напишите сюда: 
 [![](https://img.shields.io/static/v1?label=VK&message=@Baklai&color=informational)](https://vk.com/di.baklai) 
 
-Просьба сразу высылать условие дабы не тратить время на пустые дискуссии.
 
 <!--
 **baklai/baklai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
