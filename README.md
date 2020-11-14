@@ -8,10 +8,15 @@
 - Node.js;
 - MathCad;
 
-### Вам нужна помощь? 
-Тогда напишите сюда: 
-[![](https://img.shields.io/static/v1?label=VK&message=@Baklai&color=informational)](https://vk.com/di.baklai) 
+### Вам нужна помощь?
 
+Тогда напишите сюда:
+[![](https://img.shields.io/static/v1?label=VK&message=@Baklai&color=informational)](https://vk.com/di.baklai)
+
+### Мои сертификаты:
+
+[RS School](https://rs.school/) - это бесплатные курсы, проводимые сообществом разработчиков The Rolling Scopes. Пройдя курс и набрав необходимый рейтинг получил сертификат NODEJS 2020 Q3 (JAVASCRIPT) разработчика.
+![NODEJS 2020 Q3](1mbavv5g.png)
 
 <!--
 **baklai/baklai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
