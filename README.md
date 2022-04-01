@@ -8,6 +8,8 @@
 - Node.js;
 - MathCad;
 
+![Test gif](testgiphy.gif)
+
 <!--
 **baklai/baklai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
