@@ -9,5 +9,6 @@ I am a Full-stack JavaScript developer. I have been writing microservices in Jav
 - Vue.js
 - Nuxt.js
 - Vuetify
+- Primevue
 - HTML5
 - CSS3
