@@ -9,7 +9,3 @@
 - Vuetify
 - HTML5
 - CSS3
-- GIT
-- Pascal
-- Lazarus
-- Delphi
