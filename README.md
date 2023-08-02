@@ -1,8 +1,15 @@
-### Программирую на:
+# Full Stack JavaScript Developer
 
-- Pascal(Паскаль) (Turbo Pascal, Pascal ABC, PascalABC.NET, Free Pascal);
-- Lazarus;
-- Delphi;
-- JavaScript;
-- Node.js;
-- MathCad;
+## Tech Skills
+
+- JavaScript
+- Node.js
+- Vue.js
+- Nuxt.js
+- Vuetify
+- HTML5
+- CSS3
+- GIT
+- Pascal
+- Lazarus
+- Delphi
