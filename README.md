@@ -1,3 +1,3 @@
 # Full Stack JavaScript Developer
 
-I am a Full Stack JavaScript Developer. I have experience with such frameworks as Node.js, Vue.js, VitePress, Nuxt, NestJS, Express, PrimeVue, Vuetify. I have experience with MySQL, MongoDB databases.
+I am a Full Stack JavaScript Developer with experience in frameworks such as Node.js, Vue.js, Vite, VitePress, Nuxt, NestJS, Express, PrimeVue, and Vuetify. I also have experience working with MySQL and MongoDB databases.
